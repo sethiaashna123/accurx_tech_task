@@ -4,9 +4,7 @@ This repository contains the BigQuery SQL used to analyse whether performing key
 
 ## Report
 
-See the full analysis and insights here:
-
-📄 report/Accurx_Technical_Task.pdf
+See the full analysis and insights as Accurx Analysis PDF. 
 
 ## SQL Files
 
